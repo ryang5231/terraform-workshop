@@ -12,3 +12,4 @@ resource "aws_instance" "app_server" {
     Name = "${var.student_id}-Ex1-EC2-Instance"
   }
 }
+
